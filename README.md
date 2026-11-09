@@ -16,6 +16,7 @@
 
 | 项目 | 说明 |
 |---|---|
+| [个人作品集](https://cdgxr.github.io/portfolio/) | 用 HTML/CSS 做的作品集网站 |
 | [git-practice](https://github.com/CDGXR/git-practice) | Git 学习练习仓库 |
 
 ## 联系方式
